@@ -8,4 +8,5 @@ Esercizio 3 - Attributes
 Esercizio 4 - Table :star: :star: :star:   
 Esercizio 5 - Form  
 Esercizio 6 - validation  
+Esercizio 7 - Navbar  
 
