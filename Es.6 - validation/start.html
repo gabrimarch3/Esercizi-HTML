@@ -41,17 +41,17 @@
           </optgroup>
         </select>
         <label for="form-pro">PRO plan</label>
-        <input id="form-pro" name="pro" type="checkbox" />
+        <input id="form-pro" name="pro" type="checkbox"/>
       </div>
       <div>
         <label for="form-cc">Credit card number</label>
-        <input id="form-cc" name="cc" type="text" />
+        <input id="form-cc" name="cc" type="text" minlength="16" maxlength="16" required/>
         <label for="form-cvc">CVC</label>
-        <input id="form-cvc" name="cvc" type="text" />
+        <input id="form-cvc" name="cvc" type="text" minlength="3" maxlength="3" required/>
         <label for="form-exp">Expiration date</label>
-        <input id="form-exp" name="exp" type="date" />
+        <input id="form-exp" name="exp" type="date" required/>
         <label for="form-address">Address</label>
-        <input type="text" id="form-address" name="address" />
+        <input type="text" id="form-address" name="address" required/>
       </div>
 
       <button type="submit">Submit</button>
