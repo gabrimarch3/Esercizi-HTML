@@ -5,4 +5,5 @@ Correzioni:
 Esercizio 1 - Head :star: :star: :star:  
 Esercizio 2 - HTML tags :star: :star:  
 Esercizio 3 - Attributes  
-Esercuzio 4 - table :star: :star: :star:  
+Esercizio 4 - Table :star: :star: :star:   
+Esercizio 5 - Form
