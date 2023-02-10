@@ -9,5 +9,6 @@ Esercizio 4 - Table :star: :star: :star:
 Esercizio 5 - Form :star: :star: :star:  
 Esercizio 6 - validation :star: :star: :star:   
 Esercizio 7 - Navbar :star: :star: :star:    
-
+Esercizio 8 - Card  
+Esercizio 9 - HTML blog page  
 
